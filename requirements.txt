@@ -1,3 +1,9 @@
-streamlit==1.17.0
-python-dotenv==1.0.0
-requests==2.28.1
+streamlit
+sqlalchemy
+pymysql
+requests
+folium
+streamlit-folium
+python-dotenv
+pymongo==4.5.0
+dnspython==2.2.1
