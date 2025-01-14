@@ -1,0 +1,20 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# .env file containing sensitive information
+.env
+
+# Streamlit specific
+.streamlit/
+
+# IDEs and editors (optional, adjust according to your editor)
+.vscode/
+.idea/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
